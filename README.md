@@ -17,6 +17,7 @@ A robust implementation of the classic Connect Four game using advanced **C++ Ob
 ## 🛠️ How to Compile and Run
 Since the project consists of multiple source files, compile them all together using `g++`:
   g++ *.cpp -o connect4
+Run the game:
   ./connect4
 
 ## 📜 Key Technical Concepts Covered
