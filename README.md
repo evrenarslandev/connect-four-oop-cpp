@@ -20,7 +20,7 @@ Since the project consists of multiple source files, compile them all together u
   ./connect4
 
 ## 📜 Key Technical Concepts Covered
--Polymorphic behavior with pointers (gamePtr)
--File I/O for loading game states from text files
--Exception handling and input validation
--Recursion and stack-based undo logic
+- Polymorphic behavior with pointers (gamePtr)
+- File I/O for loading game states from text files
+- Exception handling and input validation
+- Recursion and stack-based undo logic
